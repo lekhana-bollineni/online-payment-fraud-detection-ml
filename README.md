@@ -59,7 +59,7 @@ We have **NOT uploaded the dataset file in this repository** because the dataset
   Selected important features for better model accuracy.
 
 4. **Model Building:**  
-  Trained different models like Random Forest Classifier, etc.
+  Trained different models like Random Forest Classifier, Decision Tree Classifier etc.
 
 5. **Model Evaluation:**  
   Used metrics like Accuracy, Precision, Recall, F1-score.
