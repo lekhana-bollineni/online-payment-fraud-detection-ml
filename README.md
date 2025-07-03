@@ -84,7 +84,7 @@ It covers model training, evaluation, and web deployment using Flask.
 
 📞 Contact
 For any queries, contact:
-Bollineni Lekhana
+Bollineni Lekhana, 
 email : bollinenilekhana64@gmail.com
 
 
