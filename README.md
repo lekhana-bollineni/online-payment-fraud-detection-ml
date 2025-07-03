@@ -69,9 +69,18 @@ We have **NOT uploaded the dataset file in this repository** because the dataset
 
 ---
 
+**Note:**  
+The app will run only on the local system (localhost:5000) and is not accessible to others unless hosted online (like on PythonAnywhere).
+##How to run the project locally 
+When you run : Python app.py
+Flask launches the app on:
+http://127.0.0.1:5000
+
+
+
 ## 🌐 Deployment Link 
 
-The project is deployed and running live on PythonAnywhere:  
+The project is deployed and running live on PythonAnywhere. You can access the live app here:
 👉 [https://gsr.pythonanywhere.com/](https://gsr.pythonanywhere.com/)
 
 ---
